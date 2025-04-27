@@ -10,3 +10,4 @@ results/
 *.pth
 airfoils/
 MNIST/
+CIFAR10/
